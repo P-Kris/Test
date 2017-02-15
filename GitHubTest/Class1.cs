@@ -8,5 +8,6 @@ namespace GitHubTest
 {
     public class Class1
     {
+        // challenge accepted, bro.
     }
 }
